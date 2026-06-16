@@ -1,0 +1,25 @@
+{
+  "name": "ecommerce-store",
+  "version": "1.0.0",
+  "description": "Simple e-commerce store",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node backend/server.js",
+    "dev": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfb145/ecommerce-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfb145/ecommerce-store/issues"
+  },
+  "homepage": "https://github.com/lfb145/ecommerce-store#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
