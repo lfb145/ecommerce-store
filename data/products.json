@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p1",
+    "name": "Hydrating Face Cream",
+    "price": 12,
+    "image": "https://picsum.photos/seed/face-cream/400/300",
+    "description": "Light daily moisturizer for soft and smooth skin.",
+    "usage": "Apply a small amount to clean skin every morning and evening."
+  },
+  {
+    "id": "p2",
+    "name": "Vitamin C Serum",
+    "price": 18,
+    "image": "https://picsum.photos/seed/vitamin-c/400/300",
+    "description": "Brightening serum that helps improve skin tone.",
+    "usage": "Use 2-3 drops on dry skin before moisturizer once daily."
+  },
+  {
+    "id": "p3",
+    "name": "Gentle Cleanser",
+    "price": 9,
+    "image": "https://picsum.photos/seed/cleanser/400/300",
+    "description": "Foaming cleanser that removes dirt and excess oil.",
+    "usage": "Massage on wet face for 30 seconds then rinse thoroughly."
+  },
+  {
+    "id": "p4",
+    "name": "Sunscreen SPF 50",
+    "price": 11,
+    "image": "https://picsum.photos/seed/sunscreen/400/300",
+    "description": "Broad-spectrum sunscreen for daily UV protection.",
+    "usage": "Apply generously 15 minutes before sun exposure and reapply every 2 hours."
+  }
+]
